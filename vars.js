@@ -1,2 +1,6 @@
-alert("hello world");
-alert("hello planet");
+function msg(){  
+    alert("Hello Javatpoint");  
+   }  
+
+
+msg();   
