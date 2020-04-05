@@ -1,5 +1,5 @@
 function msg(){  
-    alert("Hello werld");  
+    alert("Hello GREG");  
    }  
 
 
