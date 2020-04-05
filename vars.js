@@ -1,5 +1,6 @@
 function msg(){  
-    alert("Hello Javatpoint");  
+    alert("Hello Javapoint");  
+    alert("Hello Javapoint"); 
    }  
 
 
